@@ -1,0 +1,5 @@
+# Tool binaries installed by the Makefile
+tmp/
+
+# Local superpowers specs/plans (not part of the repo)
+docs/superpowers/
