@@ -2,10 +2,15 @@
 
 This document describes the set of roles individuals may have within the community, the requirements of each role, and the contributor ladder for someone to grow.
 
-* [Contributor Ladder](#contributor-ladder)
-    * [Contributor](#contributor)
-    * [Reviewer](#reviewer)
-    * [Maintainer](#maintainer)
+<!-- toc -->
+- [Contributor Ladder](#contributor-ladder)
+  - [Contributor](#contributor)
+  - [Reviewer](#reviewer)
+  - [Maintainer](#maintainer)
+- [Inactivity](#inactivity)
+- [Involuntary Removal or Demotion](#involuntary-removal-or-demotion)
+- [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
+<!-- /toc -->
 
 ## Contributor Ladder
 

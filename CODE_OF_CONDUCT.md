@@ -1,5 +1,11 @@
 # E2BGateway Community Code of Conduct
 
+<!-- toc -->
+- [Scope](#scope)
+- [Enforcement](#enforcement)
+- [Generative AI Policy](#generative-ai-policy)
+<!-- /toc -->
+
 All members of the e2bgateway community must abide by the [Contributor Covenant Code of Conduct, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 Only by respecting one another can we build a strong and collaborative community.
 

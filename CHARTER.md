@@ -1,5 +1,15 @@
 # Technical Charter for the E2BGateway Open Source Project
 
+<!-- toc -->
+- [1. Mission and Scope of the Project](#1-mission-and-scope-of-the-project)
+- [2. Technical Steering Committee](#2-technical-steering-committee)
+- [3. TSC Voting](#3-tsc-voting)
+- [4. Compliance with Policies](#4-compliance-with-policies)
+- [5. Community Assets](#5-community-assets)
+- [6. Intellectual Property Policy](#6-intellectual-property-policy)
+- [7. Amendments](#7-amendments)
+<!-- /toc -->
+
 This Charter sets forth the responsibilities and procedures for technical contribution to, and
 oversight of, the e2bgateway open source project (the "Project"). All contributors (including
 committers, maintainers, and other technical positions) and other participants in the Project

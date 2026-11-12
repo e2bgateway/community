@@ -1,5 +1,22 @@
 # Contribution Guidelines
 
+<!-- toc -->
+- [Development](#development)
+  - [Code of Conduct](#code-of-conduct)
+  - [Getting Started](#getting-started)
+  - [Development Environment Setup](#development-environment-setup)
+  - [Making Changes](#making-changes)
+    - [Coding Standards](#coding-standards)
+    - [Commit Guidelines](#commit-guidelines)
+    - [Developer Certificate of Origin (DCO)](#developer-certificate-of-origin-dco)
+  - [Pull Request Process](#pull-request-process)
+  - [Documentation](#documentation)
+  - [Releasing](#releasing)
+  - [Community](#community)
+- [License](#license)
+- [Questions?](#questions)
+<!-- /toc -->
+
 ## Development
 
 ### Code of Conduct
